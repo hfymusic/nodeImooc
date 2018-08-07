@@ -1,0 +1,25 @@
+安装 grunt 全局
+    npm install grunt -g
+
+安装 grunt 本地并保存到依赖表中
+    npm install grunt --save-dev
+
+安装 grunt-cli 全局
+    npm install grunt-cli -g
+
+安装 grunt-nodemon 并保持到依赖表中
+    npm install grunt-nodemon --save-dev
+
+安装 grunt-concurrent 并保持到依赖表中
+    npm install grunt-concurrent --save-dev
+
+安装 grunt-contrib-watch 并保持到依赖表中
+    npm install grunt-contrib-watch --save-dev
+
+安装 mocha 进行项目单元测试
+    npm install mocha --save
+
+
+解决 npm err windows_nt 6.1.7601
+    npm config set registry http://registry.cnpmjs.org
+    npm info underscore （如果上面配置正确这个命令会有字符串response）

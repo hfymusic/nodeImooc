@@ -1,0 +1,24 @@
+{
+  "name": "imooc_2",
+  "description": "imooc_2 movies",
+  "main": "",
+  "keywords": [
+    "movies"
+  ],
+  "authors": [
+    "huangfy"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
